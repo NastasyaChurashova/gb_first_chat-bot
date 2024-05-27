@@ -7,4 +7,4 @@
 functionality:
 1. greeting
 2. asking for the horoscope sign and submitting funny response
-3. checking the weather (API connected)
+3. only 3 commands: ``\start``, ``\stop`` and ``\info``
